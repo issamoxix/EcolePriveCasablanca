@@ -1,2 +1,3 @@
 # EcolePriveCasablanca
-Les Ecole Privé Casablanca csv Format
+Schools in Casablanca Scraped into a .csv format
+
